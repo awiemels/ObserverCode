@@ -1,0 +1,16 @@
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\CST 371 Observer Code.exe
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\CST 371 Observer Code.deps.json
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\CST 371 Observer Code.runtimeconfig.json
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\CST 371 Observer Code.runtimeconfig.dev.json
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\CST 371 Observer Code.dll
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\ref\CST 371 Observer Code.dll
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\bin\Debug\net5.0\CST 371 Observer Code.pdb
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.csprojAssemblyReference.cache
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.AssemblyInfoInputs.cache
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.AssemblyInfo.cs
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.csproj.CoreCompileInputs.cache
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.dll
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\ref\CST 371 Observer Code.dll
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.pdb
+C:\Users\HP Owner\Desktop\CST 371 Observer Code\obj\Debug\net5.0\CST 371 Observer Code.genruntimeconfig.cache
